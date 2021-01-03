@@ -1,0 +1,7 @@
+C:\Users\qwerty\Source\Repos\CiobanuVirgilFlorin\Problems-pool-2\PR8\obj\Debug\PR8.csprojAssemblyReference.cache
+C:\Users\qwerty\Source\Repos\CiobanuVirgilFlorin\Problems-pool-2\PR8\obj\Debug\PR8.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\Source\Repos\CiobanuVirgilFlorin\Problems-pool-2\PR8\bin\Debug\PR8.exe.config
+C:\Users\qwerty\Source\Repos\CiobanuVirgilFlorin\Problems-pool-2\PR8\bin\Debug\PR8.exe
+C:\Users\qwerty\Source\Repos\CiobanuVirgilFlorin\Problems-pool-2\PR8\bin\Debug\PR8.pdb
+C:\Users\qwerty\Source\Repos\CiobanuVirgilFlorin\Problems-pool-2\PR8\obj\Debug\PR8.exe
+C:\Users\qwerty\Source\Repos\CiobanuVirgilFlorin\Problems-pool-2\PR8\obj\Debug\PR8.pdb

@@ -1,0 +1,6 @@
+C:\Users\qwerty\source\repos\CiobanuVirgilFlorin\Problems-pool-2\PR4\bin\Debug\PR4.exe.config
+C:\Users\qwerty\source\repos\CiobanuVirgilFlorin\Problems-pool-2\PR4\bin\Debug\PR4.exe
+C:\Users\qwerty\source\repos\CiobanuVirgilFlorin\Problems-pool-2\PR4\bin\Debug\PR4.pdb
+C:\Users\qwerty\source\repos\CiobanuVirgilFlorin\Problems-pool-2\PR4\obj\Debug\PR4.csproj.CoreCompileInputs.cache
+C:\Users\qwerty\source\repos\CiobanuVirgilFlorin\Problems-pool-2\PR4\obj\Debug\PR4.exe
+C:\Users\qwerty\source\repos\CiobanuVirgilFlorin\Problems-pool-2\PR4\obj\Debug\PR4.pdb
